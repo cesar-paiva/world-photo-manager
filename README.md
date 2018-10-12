@@ -25,7 +25,7 @@ World Photo Manager requires [Node.js](https://nodejs.org/) v8.x and Angular 6.X
 Install the dependencies and devDependencies and start the server.
 
 ```sh
-$ git clone https://github.com/cesar-paiva/world_photo_manager.git
+$ git clone https://github.com/cesar-paiva/world-photo-manager.git
 $ cd world_photo_manager
 $ npm install
 $ ng serve
